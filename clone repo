@@ -1,0 +1,5 @@
+git clone https://github.com/<your-github-username>/<your-repo-name>
+cd <your-repo-name>
+npm install
+SLACK_BOT_TOKEN=xoxb-...   # Bot User OAuth Token (from OAuth & Permissions)
+SLACK_APP_TOKEN=xapp-...   # App-Level Token (from Basic Information → App-Level Tokens)

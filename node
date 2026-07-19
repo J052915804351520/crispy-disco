@@ -1,0 +1,4 @@
+apt update
+apt install -y git curl ca-certificates nano
+curl -fsSL https://deb.nodesource.com/setup_lts.x | bash -
+apt install -y nodejs
